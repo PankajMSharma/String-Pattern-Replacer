@@ -4,7 +4,7 @@ It will search for given file type in whole directory tree provided and replace 
 
 **Usage:**
 1.  Clone the project in your local repository.
-    Eg. git clone 
+    Eg. `git clone https://github.com/PankajMSharma/String-Pattern-Remover.git`
 2.  Import the project to Eclipse IDE.
 3.  Run the project as application.
 4.  Enter the path of directory in console when prompted. Tool will look for every file in the given drirectory tree.
