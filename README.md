@@ -1,6 +1,7 @@
-# String-Pattern-Remover
-Multiple String pattern Remover from Multiple files.
-It will search for given file type in whole directory tree provided and replace every one of them. With default setting it will prompt before making any change.
+# String-Pattern-Replacer
+Replaces string(based on pattern) from multiple files.
+It will search for given file type in whole directory tree and replace every occurrance of string pattern found in them. 
+With default settings it will prompt before making any change.
 
 **Usage:**
 1.  Clone the project in your local repository.
