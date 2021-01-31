@@ -3,6 +3,12 @@ Replaces string(based on pattern) from multiple files.
 It will search for given file type in whole directory tree and replace every occurrance of string pattern found in them. 
 With default settings it will prompt before making any change.
 
+# Why I created this repository?
+-   Problem: I was facing a issue where I had to replace words within a big project with another word. But same word will replace
+    the old word everytime. This was very repeatitive task. It would have taken me 2 days to perform this task for whole project.
+-   I couldn't find IDE which was configurable to do this.
+-   Thus I created this repositoory.
+
 **Usage:**
 1.  Clone the project in your local repository.
     Eg. `git clone https://github.com/PankajMSharma/String-Pattern-Remover.git`
