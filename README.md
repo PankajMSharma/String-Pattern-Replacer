@@ -11,7 +11,7 @@ With default settings it will prompt before making any change.
 
 **Usage:**
 1.  Clone the project in your local repository.
-    Eg. `git clone https://github.com/PankajMSharma/String-Pattern-Remover.git`
+    Eg. `git clone https://github.com/PankajMSharma/String-Pattern-Replacer.git`
 2.  Import the project to Eclipse IDE.
 3.  Run the project as application.
 4.  Enter the path of directory in console when prompted. Tool will look for every file in the given drirectory tree.
