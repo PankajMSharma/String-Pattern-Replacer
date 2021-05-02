@@ -3,6 +3,8 @@ Replaces string(based on pattern) from multiple files.
 It will search for given file type in whole directory tree and replace every occurrance of string pattern found in them. 
 With default settings it will prompt before making any change.
 
+# STATUS - DEVELOPMENT COMPLETE
+
 # Why I created this repository?
 -   Problem: I was facing a issue where I had to replace words within a big project with another word. But same word will replace
     the old word everytime. This was very repeatitive task. It would have taken me 2 days to perform this task for whole project.
