@@ -1,7 +1,7 @@
 # String-Pattern-Replacer
-Replaces string(based on pattern) from multiple files.
-It will search for given file type in whole directory tree and replace every occurrance of string pattern found in them. 
-With default settings it will prompt before making any change.
+Replaces string(based on pattern) from multiple files within a directory structure.
+It can be configured to replace only in certain file types. 
+With default settings it will prompt before making any change but you can change this setting.
 
 # STATUS - DEVELOPMENT COMPLETE
 
